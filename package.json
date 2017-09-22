@@ -1,0 +1,48 @@
+{
+  "name": "chat-room-app-back-end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/bcrypt": "^1.0.0",
+    "@types/body-parser": "^1.16.5",
+    "@types/chalk": "^0.4.31",
+    "@types/express": "^4.0.37",
+    "@types/helmet": "0.0.36",
+    "@types/jsonwebtoken": "^7.2.3",
+    "@types/mongoose": "^4.7.21",
+    "@types/passport": "^0.3.4",
+    "@types/passport-facebook": "^2.1.6",
+    "@types/passport-jwt": "^2.0.24",
+    "@types/passport-local": "^1.0.31",
+    "@types/socket.io": "^1.4.30",
+    "@types/uuid": "^3.4.2",
+    "@types/yargs": "^8.0.2",
+    "bcrypt": "^1.0.3",
+    "body-parser": "^1.18.1",
+    "chalk": "^2.1.0",
+    "express": "^4.15.4",
+    "greenlock-express": "^2.0.11",
+    "helmet": "^3.8.1",
+    "jsonwebtoken": "^8.0.1",
+    "mongoose": "^4.11.11",
+    "passport": "^0.4.0",
+    "passport-facebook": "^2.1.1",
+    "passport-jwt": "^3.0.0",
+    "passport-local": "^1.0.0",
+    "socket.io": "^2.0.3",
+    "ts-node": "^3.3.0",
+    "typescript": "^2.5.2",
+    "uuid": "^3.1.0",
+    "yargs": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.0"
+  }
+}
